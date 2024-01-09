@@ -44,7 +44,7 @@ function chooseColor(depth) {
     else return "rgb(225,87,91)";
 };
 
-\
+
 
 // Adding a legend
 
